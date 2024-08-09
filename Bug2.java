@@ -4,6 +4,11 @@ String str = "";
 if (str.equals(null)) {
     System.out.println("String is null");
 }
-}
   // Fix Bug In Logic
+  else{
+    System.out.println("String is not null");
+    
+  }
 }
+}
+
